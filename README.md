@@ -1,6 +1,6 @@
 <h2 align='center'>Contact Manager 📃</h2>
 <p align="center">
-<a href="https://github.com/saurabh-kud"><img title="Author" src="https://img.shields.io/badge/Author-saurabh-kud--red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/"><img title="Author" src="https://img.shields.io/badge/Author-saurabh-kud--red.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
